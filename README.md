@@ -12,6 +12,7 @@ OneAPI，提供各种数据API，用户信息、视频列表、详情、点赞�
 
 - **邮箱**: support@getoneapi.com
 - **Telegram**: [t.me/GetOneAPI](https://t.me/GetOneAPI)
+- **Telegram Channel**: [t.me/oneapiteam](https://t.me/oneapiteam)
 
 如有任何问题，欢迎联系我们。
 
@@ -206,7 +207,7 @@ curl -X POST https://api.getoneapi.com/api/douyin/user_detail
 超时建议
 
 虽然大多数 API 请求会在几秒钟内响应，但我们建议将请求超时设置为至少 60 秒。
-这并不表示我们的 API 很慢，它只是有助于避免由于临时网络问题或客户端超时而导致的意外错误或重复收费。                                    
+这并不表示我们的 API 很慢，它只是有助于避免由于临时网络问题或客户端超时而导致的意外错误或重复收费。                                     
 
 重试/切换策略
 
