@@ -1,6 +1,6 @@
 ## Description/简介
 
-OneAPI，提供各种数据API，用户信息、视频列表、详情、点赞、评论数据、综合搜索等，包括：Douyin（抖音）、Xiaohongshu（小红书）、Kuaishou（快手）、Bilibili（哔哩哔哩）、Weibo（微博）、Toutiao（今日头条）、Xigua（西瓜视频）、Lemon8、Tiktok、Youtube等接口、数据、API、爬虫、采集。 
+OneAPI，提供各种数据API，用户信息、视频列表、详情、点赞、评论数据、综合搜索等，包括：Douyin（抖音）、Xiaohongshu（小红书）、Kuaishou（快手）、Bilibili（哔哩哔哩）、Weibo（微博）、微信公众号、微信视频号、Toutiao（今日头条）、Xigua（西瓜视频）、Lemon8、Tiktok、Youtube等接口、数据、API、爬虫、采集。 
 
 我们是一家专业的数据服务提供商，提供标准的 HTTP 接口服务，并可根据您的需求定制化数据服务。
 
