@@ -218,7 +218,7 @@ curl -X POST https://api.getoneapi.com/api/douyin/user_detail
 
 #### Request rate/速率限制
 
-平台采用按账户的 RPS（Requests Per Second，每秒请求数）限速机制，以保障接口稳定性和账户安全。
+平台采用按账户的 RPS（Requests Per Second，每秒请求数）限速机制，以保障接口稳定性和账户安全。 
 
 - 新注册账户默认拥有 **10 RPS**。
 - 账户 RPS 作用于整个账户，**同一账户下的全部 API 密钥共享该请求速率**；创建多个 API 密钥不会增加总 RPS。
